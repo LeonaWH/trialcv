@@ -14,6 +14,7 @@ body{
     h3{
       color: #7C3E66;
     }
-table{
-  cellspacing: 5px;
+td {
+  padding: 15px;
+  text-align: center;
 }
